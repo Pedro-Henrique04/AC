@@ -1,0 +1,30 @@
+Código Java:
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+
+Código Python:
+
+print("Olá, Mundo!")
+
+Código C++:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Olá, Mundo!" << endl;
+    return 0;
+}
+
+Java
+Definição: Java é uma linguagem de programação orientada a objetos e de propósito geral. Foi projetada para ser portátil, o que significa que o código Java pode ser executado em qualquer dispositivo que tenha a Java Virtual Machine (JVM). Isso é possível porque o código é compilado em um formato intermediário chamado bytecode, que a JVM interpreta e executa.
+
+C++
+Definição: C++ é uma linguagem de programação que estende o C com suporte a programação orientada a objetos e outras características. É conhecida por sua eficiência e controle detalhado sobre o hardware, o que a torna ideal para desenvolvimento de sistemas, jogos e aplicativos que requerem alto desempenho. C++ também permite programação genérica e manipulação direta da memória.
+
+Python
+Definição: Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. Tem uma sintaxe que permite aos desenvolvedores escrever código de forma rápida e eficiente. Python é uma linguagem interpretada e dinamicamente tipada, o que facilita a prototipagem e a criação de scripts. É amplamente utilizada em diversas áreas, como web development, análise de dados e inteligência artificial.
